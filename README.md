@@ -70,7 +70,7 @@ jdt test .        # Run tests
 jdt validate .    # Quick manifest check
 jdt manifest .    # Regenerate manifest from code
 jdt deploy local .                    # local install
-jdt deploy ssh pi@jarvis-dev.local .  # ship to a Pi node
+jdt deploy ssh pi@<dev-node>.local .  # ship to a Pi node
 ```
 
 ## License
