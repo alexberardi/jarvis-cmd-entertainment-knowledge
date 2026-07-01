@@ -8,7 +8,7 @@ description: >-
   one level deeper (filmography, related titles). Powered by TMDB.
 version: 0.1.0
 min_jarvis_version: 0.9.0
-license: MIT
+license: Apache-2.0
 author:
   github: alexberardi
 
